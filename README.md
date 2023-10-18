@@ -28,7 +28,7 @@ Private discord economy bot for xarshmk
 Clone the project
 
 ```bash
-  git clone https://github.com/NNKTV28/NationsRP-Premium.git
+  https://github.com/NNKTV28/NationsRP-Premium-Public.git
 ```
 
 Go to the project directory
