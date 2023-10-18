@@ -77,7 +77,7 @@ To deploy this project run
 ```bash
   npm i
   node deploy-commands.js
-  node synch-db.js
+  node .\utils\syncDB.js
   node index.js
 ```
 
